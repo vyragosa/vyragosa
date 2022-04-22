@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [uumlaut!](https://github.com/vyragosa)
 
-<!--
-**vyragosa/vyragosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &nbsp;✌️ About me
+* 😄 My name is uumlaut, I am 19 years old.
+* 🇷🇺 I am from Russia
+* 🎓 I am a student of Russian Technological University
+* 💻 I am currently studying computer science, just started
+* 🐈‍⬛ I love animals, especially cats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 &nbsp;GitHub Analytics
+<div align="center">
+
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyragosa&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
+
+</div>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/vyragosa"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vyragosa&custom_title=vyragosa's%20Contribution%20Graph&theme=material-palenight" /></a>
+  <br/>
+</details>
