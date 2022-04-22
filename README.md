@@ -1,5 +1,9 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [uumlaut!](https://github.com/vyragosa)
 
+<p>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAD1D8&lines=Computer+Science+Student;Bebra?&width=500&height=50&font=monospace"></a>
+</p>
+
 ## &nbsp;✌️ About me
 * 😄 My name is uumlaut, I am 19 years old.
 * 🇷🇺 I am from Russia
