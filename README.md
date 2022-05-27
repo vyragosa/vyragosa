@@ -5,6 +5,7 @@
 </p>
 
 ## &nbsp;✌️ About me
+
 * 😄 My name is uumlaut, I am 19 years old.
 * 🇷🇺 I am from Russia
 * 🎓 I am a student of Russian Technological University
@@ -16,6 +17,8 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyragosa&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
 </div>
+
+![snake gif](https://github.com/vyragosa/vyragosa/blob/output/github-contribution-grid-snake.gif)
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
