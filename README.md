@@ -18,7 +18,7 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/vyragosa/vyragosa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
