@@ -11,13 +11,10 @@
 * 💻 I am currently studying computer science, just started
 * 🐈‍⬛ I love animals, especially cats
 
-
 ## 📈 &nbsp;GitHub Analytics
 <div align="center">
-
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyragosa&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
-
 </div>
 
 <details>
