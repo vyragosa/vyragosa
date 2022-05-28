@@ -6,19 +6,19 @@
 
 ## &nbsp;✌️ About me
 
-* 😄 My name is uumlaut, I am 19 years old.
-* 🇷🇺 I am from Russia
-* 🎓 I am a student of Russian Technological University
-* 💻 I am currently studying computer science, just started
-* 🐈‍⬛ I love animals, especially cats
+- 😄 My name is uumlaut, I am 19 years old.
+- 🇷🇺 I am from Russia
+- 🎓 I am a student of Russian Technological University
+- 💻 I am currently studying computer science, just started
+- 🐈‍⬛ I love animals, especially cats
 
 ## 📈 &nbsp;GitHub Analytics
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyragosa&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/vyragosa/vyragosa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/vyragosa/vyragosa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
