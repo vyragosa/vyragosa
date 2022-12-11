@@ -1,6 +1,6 @@
 # Hey 👋, I'm uumlaut!
 <p>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAD1D8&lines=Computer+Science+Student;he-he&width=500&height=50&font=monospace"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAD1D8&lines=Computer+Science+Student;Computer+Science+Student&width=500&height=50&font=monospace"></a>
 </p>
 
 ## 📈 &nbsp;GitHub Analytics
