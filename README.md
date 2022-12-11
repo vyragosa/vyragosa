@@ -13,6 +13,6 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/vyragosa"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vyragosa&custom_title=vyragosa's%20Contribution%20Graph&theme=material-palenight" /></a>
+   <a href="https://github.com/vyragosa"><img alt="uumlaut-activity-bar" src="https://github-readme-activity-graph.cyclic.app/graph?username=vyragosa&theme=github-compact" /></a>
   <br/>
 </details>
