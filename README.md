@@ -7,8 +7,8 @@
   <summary><b>⚡ GitHub Analytics</b></summary>
   <br/>
   <div align="center">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyragosa&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyragosa&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyragosa&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
   <br/>
   <img height="150em" href="https://github.com/vyragosa"><img alt="uumlaut-activity-bar" src="https://github-readme-activity-graph.cyclic.app/graph?username=vyragosa&theme=github-compact"/>
 </div>
